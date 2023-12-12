@@ -43,9 +43,9 @@ const HowToUsePage = (props) => {
               </p>
               <p>
                 The ECommSite theme is built for Netlify as an ecommerce theme
-                suitable for JAMStack architecture. This theme using
-                Netlify’s hosting service, but can be used with any
-                ecommerce platform that support a headless architecture.
+                suitable for JAMStack architecture. This theme using Netlify’s
+                hosting service, but can be used with any ecommerce platform
+                that support a headless architecture.
               </p>
             </div>
             <h3>The Best Free Tools</h3>
