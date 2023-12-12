@@ -1,6 +1,9 @@
 .root {
 
 }
+* {
+    font-family: system-ui, -apple-system, sans-serif !important;
+}
 
 .collectionContainer {
     margin-top: 8px;

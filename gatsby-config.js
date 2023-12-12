@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Sydney Ecommerce Theme`,
-    siteUrl: `https://jamm.matter.design`,
+    title: `Gatsby Ecommerce Theme`,
+    siteUrl: `https://mdb-ecommerce-site-001.netlify.app`,
   },
   plugins: [
     {
