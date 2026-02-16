@@ -19,7 +19,7 @@
   "dependencies": {
     "@netlify/plugin-gatsby": "^3.8.0",
     "cypress": "^13.6.1",
-    "gatsby": "^5.12.12",
+    "gatsby": "^5.16.0",
     "gatsby-plugin-manifest": "^5.12.3",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
